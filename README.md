@@ -2,4 +2,4 @@
 
 # My first github project
 
-# I am just getting familiar with GitHub
+# I am reading through the Hello World tutorial that Github offers.
